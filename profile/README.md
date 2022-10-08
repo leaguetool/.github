@@ -4,11 +4,11 @@
 
 ### 主页
 
-<img src="../images/main.png"  />
+<img src="master/images/main.png"  />
 
 ### 开黑大厅
 
-<img src="../images/chat.png"  />
+<img src="../master/images/chat.png"  />
 
 ## 版本更新
 
