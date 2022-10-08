@@ -4,7 +4,7 @@
 
 ### 主页
 
-<img src="master/images/main.png"  />
+<img src="../master/images/main.png"  />
 
 ### 开黑大厅
 
@@ -12,4 +12,4 @@
 
 ## 版本更新
 
-<img src="../images/update.jpg"  />
+<img src="../master/images/update.jpg"  />
